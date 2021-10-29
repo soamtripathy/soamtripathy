@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/soamtripathy" target="blank"><img src="https://img.shields.io/twitter/follow/soamtripathy?logo=twitter&style=for-the-badge" alt="soamtripathy" /></a> </p>
-<a href="https://app.daily.dev/soamtripathy"><img src="https://api.daily.dev/devcards/60338d9a2b12482e82e087592b3ff9e0.png?r=gjp" width="400" alt="SOUMYA RANJAN TRIPATHY's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/soamtripathy"><img src="https://api.daily.dev/devcards/60338d9a2b12482e82e087592b3ff9e0.png?r=gjp" width="400" alt="SOUMYA RANJAN TRIPATHY's Dev Card"/></a>
 
 - 🌱 I’m currently learning **React**
 
