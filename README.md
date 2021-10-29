@@ -22,4 +22,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soamtripathy&show_icons=true&locale=en&layout=compact" alt="soamtripathy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soamtripathy&" alt="soamtripathy" /></p>
+https://api.daily.dev/devcards/60338d9a2b12482e82e087592b3ff9e0.png?r=hui
 
