@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/soamtripathy" target="blank"><img src="https://img.shields.io/twitter/follow/soamtripathy?logo=twitter&style=for-the-badge" alt="soamtripathy" /></a> </p>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
