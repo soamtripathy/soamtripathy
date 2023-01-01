@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
 - 📫 How to reach me **soumyaranjantripathhy44@gmail.com**
 
