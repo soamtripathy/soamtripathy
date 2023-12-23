@@ -3,17 +3,22 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <img src="https://profile-counter.glitch.me/soamtripathy/count.svg?"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/soamtripathy/count.svg?"  />
+<p align="left">-🌱 I’m currently learning <b>MERN Stack</b><br><br>-📫 How to reach me: <b> soumyaranjantripathhy44@gmail.com</b><br><br>-👨‍💻 All of my projects are available at: <a> https://portfolio-tawny-omega-13.vercel.app/</a> <br><br>-📝 I regularly write articles on: <a> https://soamtripathy.hashnode.dev/</a> <br><br>-📄 Know about my experiences: <a> https://portfolio-tawny-omega-13.vercel.app/resume/standardCV.pdf </a> </p>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/soamtripathy/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/525212779481792512"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="mailto:soumyaranjantripathy44@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/soumyaranjantripathy/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://twitter.com/soamtripathy"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
 </div>
 
 ###
@@ -49,19 +54,15 @@
 
 ###
 
+<img align="right" height="180" src="https://imgflip.com/gif/8ab9n5"  />
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/31zaskvgb6nfy7wankj3pak3aon4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zaskvgb6nfy7wankj3pak3aon4&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zaskvgb6nfy7wankj3pak3aon4&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="160" src="https://tenor.com/view/shintaro-kisaragi-anime-boy-computer-bored-kagerou-project-gif-14625441"  />
-
-###
-
-<p align="left">- 🌱 I’m currently learning <b>MERN Stack.<br><br>- 📫 How to reach me: <b> soumyaranjantripathhy44@gmail.com</p>
 
 ###
 
