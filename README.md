@@ -11,11 +11,11 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/soamtripathy/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/soamtripathy/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/users/525212779481792512"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://discord.com/users/525212779481792512" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="mailto:soumyaranjantripathy44@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/soumyaranjantripathy/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/soumyaranjantripathy/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://twitter.com/soamtripathy"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
 </div>
 
@@ -66,8 +66,13 @@
 <div align="center">
   <a href="https://open.spotify.com/user/31zaskvgb6nfy7wankj3pak3aon4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zaskvgb6nfy7wankj3pak3aon4&count=2&unique=true" alt="Spotify recently played"  />
+    <img align="center" width=60% src="https://spotify-github-profile.vercel.app/api/view?uid=31zaskvgb6nfy7wankj3pak3aon4&cover_image=true&theme=novatorem" />
   </a>
 </div>
+
+###
+
+<img align="center" src="img/footer.svg"  />
 
 ###
 
