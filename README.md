@@ -66,7 +66,6 @@
 <div align="center">
   <a href="https://open.spotify.com/user/31zaskvgb6nfy7wankj3pak3aon4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zaskvgb6nfy7wankj3pak3aon4&count=2&unique=true" alt="Spotify recently played"  />
-    <img align="center" width=60% src="https://spotify-github-profile.vercel.app/api/view?uid=31zaskvgb6nfy7wankj3pak3aon4&cover_image=true&theme=novatorem" />
   </a>
 </div>
 
