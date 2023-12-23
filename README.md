@@ -2,11 +2,11 @@
 
 ###
 
-<img align="center" height="200" width="800" src="img/me.gif"  />
+<img align="center" height="200" width="900" src="img/me.gif"  />
 
 ###
 
-<p align="left">-🌱 I’m currently learning <b>MERN Stack</b><br><br>-📫 How to reach me: <b> soumyaranjantripathhy44@gmail.com</b><br><br>-👨‍💻 All of my projects are available at: <a> https://portfolio-tawny-omega-13.vercel.app/</a> <br><br>-📝 I regularly write articles on: <a> https://soamtripathy.hashnode.dev/</a> <br><br>-📄 Know about my experiences: <a> https://portfolio-tawny-omega-13.vercel.app/resume/standardCV.pdf </a> </p>
+<p align="left">-🌱 I’m currently learning <b>MERN Stack</b><br><br>-📫 How to reach me -> <b> soumyaranjantripathhy44@gmail.com</b><br><br>-👨‍💻 All of my projects are available at -> <a href="https://portfolio-tawny-omega-13.vercel.app/"> [Portfolio]</a> <br><br>-📝 I regularly write articles on -> <a href="https://soamtripathy.hashnode.dev/">[Blogs]</a> <br><br>-📄 Know about my experiences -> <a href="https://portfolio-tawny-omega-13.vercel.app/resume/standardCV.pdf"> [Resume] </a> </p>
 
 ###
 
