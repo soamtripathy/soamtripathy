@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Soam and I'm a Web Developer, from India...</h2>
+<h2 align="center">Hi 👋! My name is Soam and I'm a Full Stack MERN Developer, from India...</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">-🌱 I’m currently learning <b>MERN Stack</b><br><br>-📫 How to reach me -> <b> soumyaranjantripathhy44@gmail.com</b><br><br>-👨‍💻 All of my projects are available at -> <a href="https://portfolio-soamtripathy.vercel.app/"> [Portfolio]</a> <br><br>-📝 I regularly write articles on -> <a href="https://soamtripathy.hashnode.dev/">[Blogs]</a> <br><br>-📄 Know about my experiences -> <a href="https://portfolio-soamtripathy.vercel.app/Resume.pdf"> [Resume] </a> </p>
+<p align="left">-🌱 I’m currently learning <b>DevOps</b><br><br>-📫 How to reach me -> <b> soumyaranjantripathhy44@gmail.com</b><br><br>-👨‍💻 All of my projects are available at -> <a href="https://portfolio-soamtripathy.vercel.app/"> [Portfolio]</a> <br><br>-📝 I regularly write articles on -> <a href="https://soamtripathy.hashnode.dev/">[Blogs]</a> <br><br>-📄 Know about my experiences -> <a href="https://portfolio-soamtripathy.vercel.app/Resume.pdf"> [Resume] </a> </p>
 
 ###
 
